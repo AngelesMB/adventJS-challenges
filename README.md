@@ -2,4 +2,4 @@
 
 JavaScript Challenges from [adventJS](https://adventjs.dev/).
 
-Done with [Rouseta](https://github.com/Rouseta).
+Collaborative work with [Rouseta](https://github.com/Rouseta).
