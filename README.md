@@ -1,4 +1,4 @@
-## AdventJS Challenges
+## JS Challenges
 
 JavaScript Challenges from:
 
